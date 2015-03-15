@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Points</string>
+
+    <string name="add_points">Add Points</string>
+    <string name="points_template">YOU HAVE\n%.2f\nPOINTS</string>
+
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="event">Event</string>
+    <string name="points">Points</string>
+    <string name="event_is_empty">Event is empty</string>
+    <string name="points_is_empty">Points is empty</string>
+</resources>
